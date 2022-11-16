@@ -1,4 +1,14 @@
-cpplint - static code checker for C++
+## Fork Why? 
+This needs the following Add Root Commit The Unlicense 
+Translate the ast via src_v8 re integrate as v8/components/linter/cpp
+
+see: 
+- https://github.com/lemanschik/cpplint/issues/1
+- https://bugs.chromium.org/p/chromium/issues/detail?id=916550
+
+
+
+Fork cpplint - static code checker for C++
 =====================================
 
 .. image:: https://img.shields.io/pypi/v/cpplint.svg
